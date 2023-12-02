@@ -1,0 +1,103 @@
+html{
+ background-color: black;
+ color:white;
+}
+.heading{
+  display:flex;
+  gap:90px;
+  justify-content: center;
+  color:white
+}
+.para{
+  text-align: center;
+}
+.maincontent{
+  width:50%;
+}
+.maincontent>img{
+  margin:10px;
+  height:300px;
+  float:left;
+  
+}
+.onemore>img{
+  margin:10px;
+  height:400px;
+  justify-content: flex-end;
+  margin-left: 300px;
+ 
+}
+.both{
+  display:flex;
+} 
+.wedding{
+  display: flex;
+}
+.wed1>img{
+  height: 300px;
+}
+.wed2>img{
+  margin-left: 80px;
+  height: 300px;
+}
+.kambala{
+  display: flex;
+}
+.kam1>img{
+  height: 600px;
+  width: 400px;
+  margin-left: 100px;
+}
+.kam2>img{
+  margin-left: 200px;
+  height: 600px;
+  
+}
+.macro{
+  display: flex;
+}
+.mac1>img{
+  height: 350px;
+}
+.mac2>img{
+  margin-left: 80px;
+  height: 350px;
+}
+.nature{
+  display: flex;
+}
+.nat1>img{
+  height: 350px;
+}
+.nat2>img{
+  margin-left: 80px;
+  height: 350px;
+}
+.celebrity{
+  display: flex;
+}
+.cel11>img{
+  height: 350px;
+}
+
+.kola{
+  display: flex;
+}
+.kol1>img{
+  height: 650px;
+  
+}
+
+.concept{
+  display: flex;
+}
+.con1>img{
+  height: 800px;
+  width: 450px;
+  margin-left: 100px;
+}
+.con2>img{
+  margin-left: 200px;
+  height: 600px;
+  
+}
